@@ -1,6 +1,6 @@
 # Practica_1.1_JLL
 Practica 1.1 "Practiquemos programación colaborativa"
 Integrantes:
-Juan Lopez Lopez
-Jose Angel Rodriguez Estrada
-Nicte-Ha López Martínez
+Juan Lopez Lopez // Johanllz
+Jose Angel Rodriguez Estrada // AngelRoEst
+Nicte-Ha López Martínez // niklopez20
