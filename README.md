@@ -3,3 +3,4 @@ Practica 1.1 "Practiquemos programación colaborativa"
 Integrantes:
 Juan Lopez Lopez
 Jose Angel Rodriguez Estrada
+Nicte-Ha López Martínez
